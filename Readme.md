@@ -22,7 +22,7 @@ Follow these steps to set up the project:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/ecommerce-api.git
+   git clone https://github.com/Vaishnavi-N-08/E-commerce-FastAPI-Loopr.git
    ```
 
 2. Change to the project directory:
@@ -143,11 +143,10 @@ Follow these steps to set up the project:
 
 ## Links
 
-- Deployed API: [E-commerce API on Replit](https://ecommerce-api.om-pravinpravin.repl.co/docs)
-- Postman Documentation: [E-commerce API on Postman](https://crimson-space-855487.postman.co/workspace/New-Team-Workspace~112b8954-25d6-4db8-a946-671daa31f633/collection/17084954-4a527a09-97c4-4fd7-b8aa-be2e3d17302e?action=share&creator=17084954)
+- Deployed API: [E-commerce API on Replit](https://e-commerce-fastapi-loopr--vaishnavi-n-08.repl.co/docs)
+- Postman Documentation: [E-commerce API on Postman](https://www.postman.com/docking-module-meteorologist-56314830/workspace/loopr-testcases/collection/22444962-65e7a45b-5661-4074-bb29-09aa39a1678e?action=share&creator=22444962)
 - Postman Collection: [postman.json](postman.json)
 
-```
 
 ## Contributing
 

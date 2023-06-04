@@ -20,8 +20,8 @@ app = FastAPI(
     description=description,
     version="0.0.1",
     contact={
-        "name": "Om Surushe",
-        "url": "https://omsurushe.bio.link",
+        "name": "Vaishnavi Narkhede",
+        "url": "http://bio.link/vaishnavinarkhede",
     },
 )
 security = HTTPBearer()
